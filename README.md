@@ -1,2 +1,0 @@
-# CalculatorApp
-A basic calculator
